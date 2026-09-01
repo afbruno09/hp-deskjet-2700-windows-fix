@@ -1,0 +1,9 @@
+*.log
+*.reg
+*.png
+*.jpg
+*.jpeg
+resultado_*.txt
+backup_*
+.DS_Store
+Thumbs.db
